@@ -1,0 +1,9 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
